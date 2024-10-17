@@ -1,6 +1,6 @@
 from my_funciones import *
 
-#GABRIEL ANDRES MARTOS ZAMBRANO // DNI: 95748328 
+#GABRIEL ANDRES MARTOS ZAMBRANO / / DNI: 95748328 
 
 cantidad_filas = 6
 cantidad_columnas = 15
